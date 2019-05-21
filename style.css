@@ -73,13 +73,16 @@ html {
 .PDF {
   position: relative;
   left: -635px;
-  top: -115px;
+  top: -15px;
 }
 
 .CV_Para {
+  font-family: "Gravity-UltraLight";
   position: relative;
   top: 55px;
-  left: 250px;
+  left: -214px;
   color: #F7E7E7;
-  
+
+  letter-spacing: 1px;
+  margin: 0px;
 }
